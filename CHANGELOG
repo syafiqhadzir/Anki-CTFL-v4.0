@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.2.0 (2024-11-16)
+
+**Full Changelog**: [https://github.com/syafiqhadzir/anki-ctfl-v4.0/compare/1.1.1...1.2.0](https://github.com/syafiqhadzir/anki-ctfl-v4.0/compare/1.1.1...1.2.0)
+
+- Added 40 mock exam questions. (CTFL v4.0, Sample B).
+
+## 1.1.1 (2024-11-15)
+
+**Full Changelog**: [https://github.com/syafiqhadzir/Anki-CTFL-v4.0/compare/1.1.0...1.1.1](https://github.com/syafiqhadzir/Anki-CTFL-v4.0/compare/1.1.0...1.1.1)
+
+- Fix multi-select MCQs.
+
 ## 1.1.0 (2024-11-15)
 
 **Full Changelog**: [https://github.com/syafiqhadzir/Anki-CTFL-v4.0/compare/1.0.0...1.1.0](https://github.com/syafiqhadzir/Anki-CTFL-v4.0/compare/1.0.0...1.1.0)
